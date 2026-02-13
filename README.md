@@ -1,36 +1,44 @@
 # Dhritika Saikia
 
-Electrical Engineer | AI for Energy Systems | Battery Prognostics | Optimization & Quantum-Inspired Algorithms  
+Electrical Engineer | AI for Energy Systems | Battery Prognostics | Optimization & Quantum-Inspired Algorithms
+
 ---
+
 ## 🔬 Research Focus
+
 - Battery State of Health (SOH) & Remaining Useful Life (RUL)
 - Ensemble Learning for Energy Systems
-- QUBO-based Combinatorial Optimization
-- Quantum-Inspired Algorithms for Scalable Battery Management Systems
+- Combinatorial Optimization & QUBO Formulation
+- Quantum-Inspired Optimization for Scalable Battery Management Systems
+- EV Charging & Smart Grid Optimization
+
 ---
 
-## 📊 Current Work
-- Machine Learning Baseline for SOH Prediction
-- Feature Diversity Analysis in Battery Prognostics
-- Optimization Bottleneck in Ensemble Design
+## 📊 Current Projects
+
+- Battery SOH Machine Learning Baseline
+- Feature Diversity & Correlation Analysis in Prognostics
+- QUBO-Based Feature Selection Framework
+- Optimization Scaling Studies for High-Dimensional Search Spaces
+
 ---
 
-## 🎯 Career Objective
-
-
-Develop scalable AI-driven optimization frameworks for next-generation Battery Management Systems and Smart Energy Infrastructure.
---
-
-
-## 🛠 Technical Skills
+## 🛠 Technical Stack
 
 **Programming:** Python, NumPy, Pandas, Scikit-learn  
-**Optimization:** QUBO Formulation, Metaheuristics, Classical & Quantum-Inspired Solvers  
-**Energy Domain:** Battery Modeling, BMS, EV Systems  
+**Optimization:** Pyomo, OR-Tools, QUBO Modeling  
+**Machine Learning:** Regression, Ensemble Methods, Cross-Validation  
+**Energy Systems:** Battery Modeling, BMS, EV Systems  
 **Tools:** Git, Jupyter Notebook, Matplotlib  
 
 ---
 
-## 📈 Long-Term Vision
+## 🎯 Vision
 
-Bridging Artificial Intelligence, Optimization Theory, and Energy Systems Research to build reliable and scalable clean energy technologies.
+Building reliable, scalable, and optimization-driven AI frameworks for next-generation clean energy systems.
+
+---
+
+## 📌 Academic Direction
+
+Focused on advancing hybrid classical-quantum optimization methods for intelligent Battery Management Systems.
